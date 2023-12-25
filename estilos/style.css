@@ -13,5 +13,5 @@ main {
     width: 400px;
     margin: auto;
     padding: 10px
-    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.484)
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.484)
     }
